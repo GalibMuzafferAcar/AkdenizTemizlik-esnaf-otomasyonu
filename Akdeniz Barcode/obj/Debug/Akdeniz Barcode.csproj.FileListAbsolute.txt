@@ -1,0 +1,22 @@
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\bin\Debug\Akdeniz Barcode.exe.config
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\obj\Debug\Akdeniz_Barcode.Barcode_Scanner.resources
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\obj\Debug\Akdeniz_Barcode.Properties.Resources.resources
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\obj\Debug\Akdeniz Barcode.csproj.GenerateResource.Cache
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\bin\Debug\Akdeniz Barcode.exe
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\bin\Debug\Akdeniz Barcode.pdb
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\obj\Debug\Akdeniz Barcode.exe
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\obj\Debug\Akdeniz Barcode.pdb
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\obj\Debug\Akdeniz_Barcode.Form2.resources
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\bin\Debug\MySql.Data.dll
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\bin\Debug\Google.Protobuf.dll
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\bin\Debug\MySql.Data.xml
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\obj\Debug\Akdeniz Barcode.csprojResolveAssemblyReference.cache
+C:\Users\Houtarou\Desktop\Akdeniz Barcode\Akdeniz Barcode\Akdeniz Barcode\obj\Debug\Akdeniz_Barcode.Form3.resources
